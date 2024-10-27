@@ -7,8 +7,7 @@ date: 2024-10-27
 
 ## Introduction
 
-Welcome to my blog! In this post, I want to share my journey in programming and how I got started with various technologies, including Python and Git.
-
+HI my name is sreeja
 ## Getting Started
 
 I began my programming journey in high school when I first encountered HTML and CSS. It fascinated me how I could create simple web pages and style them. As time passed, I explored different programming languages, but Python quickly became my favorite due to its simplicity and versatility.
